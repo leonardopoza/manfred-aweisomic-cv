@@ -9,7 +9,11 @@
       "name": "Leonardo",
       "surnames": "Poza Abad",
       "title": "",
-      "description": "He pasado más de 15 años desarrollando software y liderando equipos de desarrollo. También he vivido la experiencia de ser el responsable de selección de los perfiles tecnológicos de una fintech durante 2 años. Si ponemos todo eso en una coctelera, podéis imaginar las mil y una experiencias vividas. En Manfred tratamos de cambiar el Recruitment tecnológico. De hacerlo de una forma diferente, de hacerlo poniendo al candidato en el centro del proceso. Y todas y cada una de mis vivencias como ingeniero, me están sirviendo para ayudar en nuestro objetivo. Somos diferentes, somos especiales y creemos en lo que hacemos.",
+      "description": "He pasado más de 15 años desarrollando software y liderando equipos de desarrollo. También he vivido la experiencia de ser el responsable de selección de los perfiles tecnológicos de una fintech durante 2 años. Si ponemos todo eso en una coctelera, podéis imaginar las mil y una experiencias vividas. \n\nEn Manfred tratamos de cambiar el Recruitment tecnológico. De hacerlo de una forma diferente, de hacerlo poniendo al candidato en el centro del proceso. Y todas y cada una de mis vivencias como ingeniero, me están sirviendo para ayudar en nuestro objetivo. Somos diferentes, somos especiales y creemos en lo que hacemos.",
+      "avatar": {
+        "alt": "q7YIo7eU_400x400.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c12e44c1-b539-4d39-ac63-d8978233ea5a_q7yio7eu_400x400.jpeg"
+      },
       "location": {
         "notes": ""
       }
@@ -31,7 +35,7 @@
     "recommendations": [
       {
         "title": "Personal Blog",
-        "type": "other",
+        "type": "reading",
         "URL": "https://leonardopoza.com/",
         "authors": [
           {
