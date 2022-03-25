@@ -1,0 +1,57 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Leonardo",
+      "surnames": "Poza Abad",
+      "title": "",
+      "description": "Ligado al mundo de la tecnología desde hace 15 años. Un mundo que me apasiona, sobre todo el desarrollo de software. Amante de construir producto, pero hacerlo de verdad. Producto de calidad. \n\nComencé desarrollando para una pequeña empresa que hacia software para el reconocimiento de matrículas y que nos permitía automatizar la apertura de barreras para la entrada a recintos, por ejemplo Mercamadrid. Mi siguiente etapa fueron 2 años intensos de mucho aprendizaje en una empresa de turismo, viajes Marsans. Con un equipo tremendo, lleno de buenos profesionales, construimos una central de reservas hoteleras. Meses antes de la quiebra de Marsans, un amigo que trabajaba para una empresa de selección me llamo para ofrecerme un puesto de trabajo en una empresa llamada Payvision. Una entrevista dura, de la cual me fui completamente desmoralizado, pensado que mejorar, que podía comenzar a estudiar y si no me había equivocado de profesión (ese proceso de selección en los últimos 3 años ha cambiado por completo). Al día siguiente, tenía una oferta encima de la mesa. Comencé desarrollando, haciendo integraciones con bancos, protocolos ISO8583, viendo bitmaps volar y generando números aleatorios con una máquina de cifrado de datos para jugarnos los 40 € ganados en el sorteo de navidad en el casino de Torrelodones (ganamos). Años después pase a ser el team lead de uno de los equipos de desarrollo, los Samurai, responsables de la nueva plataforma de pagos dando soporte a múltiples pagos alternativos en una solo API. He tenido la oportunidad de trabajar con compañeros que han salido a Microsoft, Amazon, Attlasian o Apple. Grandísimos profesionales de los que me he nutrido. Cansado de ver salir talento de la empresa, propuse implementar un programa de retención y contratación de talento y se me dio la oportunidad. Puse patas arriba el proceso de contratación, rediseñe las pruebas técnicas, entrene a los entrevistadores, forme mi propio equipo de selección e invertimos mucho esfuerzo en dar visibilidad a la compañía en eventos técnicos. Esto nos llevó a duplicar el tamaño de la empresa contratando entre 25 y 30 desarrolladores al año. Hoy, 13 años después, puedo decir que esta etapa ha terminado.\n\nMarido de Alicia, padre de Mateo y Jimena. Burgales. Solidario. He tratado de emprender un par de veces sin éxito y ahora mi tiempo libre lo invierto en beunlimited.es. Me encanta el deporte y la fotografía. También la cerveza fresca con amigos.",
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/leonardopoza/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/leonardopoza"
+      },
+      {
+        "type": "other",
+        "URL": "https://leonardopoza.com/"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Personal Blog",
+        "type": "other",
+        "URL": "https://leonardopoza.com/",
+        "authors": [
+          {
+            "name": "Leonardo",
+            "surnames": "Poza",
+            "title": "Author"
+          }
+        ],
+        "summary": "Just my personal site"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/leonardopoza/"
+        }
+      ]
+    }
+  }
+}
