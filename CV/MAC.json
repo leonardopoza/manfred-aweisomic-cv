@@ -251,7 +251,21 @@
             "finishDate": "2008-12-31",
             "challenges": [
               {
-                "description": "Senior Developer, also making analysis functions. I was working on an imporatant booking management portal, being responsible for third party integrations. Using mainly: - C # - Framework 3.5 - Microsoft Enterprise Library 4.0 - Microsoft Visual SourceSafe ... Senior Developer, also making analysis functions. I was working on an imporatant booking management portal, being responsible for third party integrations. Using mainly: - C # - Framework 3.5 - Microsoft Enterprise Library 4.0 - Microsoft Visual SourceSafe ..."
+                "description": "En este tiempo trabaje en importante portal de gestión de reservas, siendo el responsable de las integraciones con terceros. "
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
               }
             ]
           }
