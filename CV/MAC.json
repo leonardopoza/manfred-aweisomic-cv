@@ -15,7 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c12e44c1-b539-4d39-ac63-d8978233ea5a_q7yio7eu_400x400.jpeg"
       },
       "location": {
-        "notes": "Madrid, Community of Madrid, Spain"
+        "notes": "Madrid, Spain"
       }
     },
     "relevantLinks": [
@@ -231,12 +231,6 @@
       {
         "skill": {
           "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
           "type": "technology"
         }
       }
