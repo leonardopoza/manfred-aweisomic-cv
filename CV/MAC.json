@@ -168,7 +168,12 @@
           {
             "name": "Continuous Improvement Manager",
             "startDate": "2018-01-01",
-            "finishDate": "2019-10-31"
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "En este nuevo rol me estoy ocupando de:\n- Organizar el Release Train: evento para planificar las entregas de cada trimestre. Los departamentos de IT y Producto están involucrados. Más o menos 100 personas.\n- Organizar semanas de innovación: dos veces al año, organizamos una semana de innovación, donde todos los ingenieros tienen la oportunidad de desarrollar algunos proyectos con nuevas tecnologías.\n- Responsable del proceso de reclutamiento IT de la oficina de Madrid. Mejorando el proceso para hacerlo más orientado a los personas técnicas.\n"
+              }
+            ]
           }
         ]
       },
