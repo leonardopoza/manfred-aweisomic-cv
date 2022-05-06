@@ -212,7 +212,26 @@
           {
             "name": "Senior Software Engineering",
             "startDate": "2008-06-01",
-            "finishDate": "2015-04-30"
+            "finishDate": "2015-04-30",
+            "challenges": [
+              {
+                "description": "Empresa multinacional proveedora de servicios de pago, con sede en Amsterdam y delegaciones en Singapur, New York… Realizando funciones de análisis y desarrollo. Los últimos cuatro años usando metodologías ágiles SCRUM. Siempre usando las ultimas tecnologías Microsoft."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
