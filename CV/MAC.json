@@ -190,7 +190,12 @@
           {
             "name": "Team Lead Software Engineering",
             "startDate": "2015-04-01",
-            "finishDate": "2018-01-31"
+            "finishDate": "2018-01-31",
+            "challenges": [
+              {
+                "description": "Empresa multinacional proveedora de servicios de pago, con sede en Amsterdam y delegaciones en Singapur, New York… Realizando funciones de análisis y desarrollo. Los últimos cuatro años usando metodologías ágiles SCRUM. Siempre usando las ultimas tecnologías Microsoft. \n\nComo Team Lead me he visto involucrado en la implementación de metodologías ágiles dentro de un equipo de desarrollo. Intentando llevar este equipo a una entrega evolutiva e incremental. He tenido la oportunidad de trabajar también en la automatización de procesos y la mejora continua de dicho equipo."
+              }
+            ]
           }
         ]
       },
