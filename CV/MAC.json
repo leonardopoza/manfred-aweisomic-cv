@@ -146,7 +146,12 @@
           {
             "name": "IT Development & Recruitment Manager",
             "startDate": "2019-10-01",
-            "finishDate": "2020-12-31"
+            "finishDate": "2020-12-31",
+            "challenges": [
+              {
+                "description": "Responsable del crecimiento del departamento de tecnología. Mejorando el proceso para hacerlo más orientado a personas técnicas."
+              }
+            ]
           }
         ]
       },
