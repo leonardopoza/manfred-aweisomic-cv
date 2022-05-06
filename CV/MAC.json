@@ -281,6 +281,18 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DynamoDB",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
