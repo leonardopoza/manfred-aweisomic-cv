@@ -254,6 +254,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C#",
           "type": "technology"
         }
@@ -261,6 +267,18 @@
       {
         "skill": {
           "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       }
