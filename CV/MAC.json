@@ -8,28 +8,28 @@
     "profile": {
       "name": "Leonardo",
       "surnames": "Poza Abad",
-      "title": "",
+      "title": "Scout en Manfred",
       "description": "He pasado más de 15 años desarrollando software y liderando equipos de desarrollo. También he vivido la experiencia de ser el responsable de selección de los perfiles tecnológicos de una fintech durante 2 años. Si ponemos todo eso en una coctelera, podéis imaginar las mil y una experiencias vividas. \n\nEn Manfred tratamos de cambiar el Recruitment tecnológico. De hacerlo de una forma diferente, de hacerlo poniendo al candidato en el centro del proceso. Y todas y cada una de mis vivencias como ingeniero, me están sirviendo para ayudar en nuestro objetivo. Somos diferentes, somos especiales y creemos en lo que hacemos.",
       "avatar": {
         "alt": "q7YIo7eU_400x400.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c12e44c1-b539-4d39-ac63-d8978233ea5a_q7yio7eu_400x400.jpeg"
       },
       "location": {
-        "notes": ""
+        "notes": "Madrid, Community of Madrid, Spain"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/leonardopoza/"
+        "type": "other",
+        "URL": "https://leonardopoza.com/"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/leonardopoza"
       },
       {
-        "type": "other",
-        "URL": "https://leonardopoza.com/"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/leonardopoza/"
       }
     ],
     "recommendations": [
@@ -45,6 +45,252 @@
           }
         ],
         "summary": "Just my personal site"
+      },
+      {
+        "title": "Talent Fishbowl! Recruiters & Developers",
+        "type": "reading",
+        "URL": "https://www.linkedin.com/pulse/talent-fishbowl-recruiters-developers-leonardo-poza-abad?trk=public_profile_article_view",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Unlimited",
+        "type": "reading",
+        "URL": "https://www.linkedin.com/pulse/unlimited-leonardo-poza-abad?trk=public_profile_article_view",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "¡Feliz día a las mamis y en especial a las mamis desarrolladoras!",
+        "type": "reading",
+        "URL": "https://www.linkedin.com/pulse/feliz-d%C3%ADa-las-mamis-y-en-especial-desarrolladoras-leonardo-poza-abad?trk=public_profile_article_view",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "URL": "https://www.linkedin.com/company/manfred?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Scout",
+            "startDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Contributing with my technical knowledge to the recruitment world. Building Manfred. We don't fill positions, we build careers. Have a look at us and see how we work and why we are not just recruiters. Contributing with my technical knowledge to the recruitment world. Building Manfred. We don't fill positions, we build careers. Have a look at us and see how we work and why we are not just recruiters."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Assembler School of Software Engineering",
+          "URL": "https://www.linkedin.com/company/assembler-institute-technology?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Mentor",
+            "startDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "Participo con Assembler School mentorizando y realizando workshops para ayudar a los alumnos a afrontar sus primeras entrevista para el sector IT. Participo con Assembler School mentorizando y realizando workshops para ayudar a los alumnos a afrontar sus primeras entrevista para el sector IT."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Be-Unlimited",
+          "URL": "https://www.linkedin.com/company/be-un-limited?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Founder",
+            "startDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "Unlimited is a platform to disseminate job offers for people with different abilities. Unlimited is a platform to disseminate job offers for people with different abilities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "URL": "https://www.linkedin.com/company/payvision?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "IT Development & Recruitment Manager",
+            "startDate": "2019-10-01",
+            "finishDate": "2020-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "URL": "https://www.linkedin.com/company/payvision?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Continuous Improvement Manager",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "URL": "https://www.linkedin.com/company/payvision?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Team Lead Software Engineering",
+            "startDate": "2015-04-01",
+            "finishDate": "2018-01-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "URL": "https://www.linkedin.com/company/payvision?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineering",
+            "startDate": "2008-06-01",
+            "finishDate": "2015-04-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Marsans",
+          "URL": "https://www.linkedin.com/company/grupo-marsans?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineering",
+            "startDate": "2006-01-01",
+            "finishDate": "2008-12-31",
+            "challenges": [
+              {
+                "description": "Senior Developer, also making analysis functions. I was working on an imporatant booking management portal, being responsible for third party integrations. Using mainly: - C # - Framework 3.5 - Microsoft Enterprise Library 4.0 - Microsoft Visual SourceSafe ... Senior Developer, also making analysis functions. I was working on an imporatant booking management portal, being responsible for third party integrations. Using mainly: - C # - Framework 3.5 - Microsoft Enterprise Library 4.0 - Microsoft Visual SourceSafe ..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Selesta Networks"
+        },
+        "roles": [
+          {
+            "name": "Junior Software Engineering",
+            "startDate": "2005-10-01",
+            "finishDate": "2006-09-30",
+            "challenges": [
+              {
+                "description": "Involved in the development of a platform for license plate recognition and access control for companies like: - Mercamadrid - Universidad Alfonso X el Sabio - Hertz - Diputación Foral de Gipuzkoa - Delegación de Hacienda de la Comunidad de Madrid. Involved in the development of a platform for license plate recognition and access control for companies like: - Mercamadrid - Universidad Alfonso X el Sabio - Hertz - Diputación Foral de Gipuzkoa - Delegación de Hacienda de la Comunidad de Madrid."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified SAFe 4 Agilist",
+        "startDate": "2019-12-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "Scaled Agile, Inc."
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "SCRUM Framework",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "The Agile Program - Agile"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introducción y visión general de AGILE",
+        "startDate": "2019-04-01",
+        "finishDate": "2019-04-01",
+        "institution": {
+          "name": "The Agile Program - Agile"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Management 3.0",
+        "startDate": "2017-07-01",
+        "finishDate": "2017-07-01",
+        "institution": {
+          "name": "Improvement21"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "TECNICO SUPERIOR DESARROLLO DE APLICACIONES INFORMATICAS ",
+        "startDate": "2003-01-01",
+        "finishDate": "2005-12-31",
+        "institution": {
+          "name": "Juan de Colonia"
+        }
       }
     ]
   },
