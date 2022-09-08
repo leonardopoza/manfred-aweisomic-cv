@@ -282,16 +282,26 @@
       },
       {
         "organization": {
-          "name": "Selesta Networks"
+          "name": "Selesta Networks",
+          "image": {
+            "alt": "selesta.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/a5c3a829-0840-4cbf-8a26-6f0d3ebae3af_selesta.jpeg"
+          }
         },
         "roles": [
           {
-            "name": "Junior Software Engineering",
+            "name": "Junior Software Developer",
             "startDate": "2005-10-01",
             "finishDate": "2006-09-30",
             "challenges": [
               {
                 "description": "Involved in the development of a platform for license plate recognition and access control for companies like: - Mercamadrid - Universidad Alfonso X el Sabio - Hertz - Diputación Foral de Gipuzkoa - Delegación de Hacienda de la Comunidad de Madrid. Involved in the development of a platform for license plate recognition and access control for companies like: - Mercamadrid - Universidad Alfonso X el Sabio - Hertz - Diputación Foral de Gipuzkoa - Delegación de Hacienda de la Comunidad de Madrid."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
               }
             ]
           }
