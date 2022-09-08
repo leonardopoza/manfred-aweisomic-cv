@@ -332,9 +332,10 @@
       {
         "details": {
           "name": "CommitConf: Talent Fishbowl! Recruiters & Developers",
+          "description": "Juntamos en un mismo espacio a desarrolladores y recruiters para debatir cómo se capta, gestiona y retiene el talento en IT en la actualidad, explorar nuevos caminos y proponer mejoras en un debate moderado y dinamizado por el awesómico tándem formado por Marina Ramos y Leonardo Poza.",
           "image": {
             "alt": "qrZg5nRM_400x400.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/48377b23-be78-4c00-b7c9-9ea688dcc169_qrzg5nrm_400x400.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/c0638c2d-a3aa-4fde-95cc-2b9ace326602_qrzg5nrm_400x400.jpeg"
           }
         },
         "type": "talk",
