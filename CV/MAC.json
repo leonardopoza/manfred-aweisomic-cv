@@ -310,9 +310,10 @@
       {
         "details": {
           "name": "RootedConf | De Programador a Recruiter, por qué pasarse al lado oscuro",
+          "description": "Recruiters. Esos seres encorbatados, sufridos y detestados por todo programador medio que tenga LinkedIn y que probablemente haya sufrido su frecuente spam.\n\nSí, nosotros también lo vivimos en nuestra piel. Nosotros también acabamos diciendo que no a muchas, muchas propuestas que en la mayoría de los casos poco tenían que ver con aquello a lo que nos dedicábamos, con nuestras inquietudes e intereses.",
           "image": {
-            "alt": "rooted.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/261eaa87-766b-4258-a235-d8758373e195_rooted.jpeg"
+            "alt": "5xQXKGte_400x400.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/08f7f9d1-ed8b-4691-b448-0ceb111420d3_5xqxkgte_400x400.jpeg"
           }
         },
         "type": "talk",
