@@ -417,12 +417,15 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Management 3.0",
         "startDate": "2017-07-01",
-        "finishDate": "2017-07-01",
         "institution": {
-          "name": "Improvement21"
+          "name": "Improvement21",
+          "image": {
+            "alt": "management30_def.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6e3bde72-71f6-4d37-9c93-cd0b890c34d0_management30_def.jpeg"
+          }
         }
       },
       {
