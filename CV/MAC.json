@@ -40,23 +40,16 @@
     ],
     "interestingFacts": [
       {
-        "topic": "Test Title",
-        "fact": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nisl lectus, sodales eget mauris vitae, pellentesque blandit mi. Sed tristique, mi nec posuere blandit, dolor tellus lacinia nibh, quis vulputate neque nisl vel dolor. Curabitur ligula elit, tempus quis vulputate sed, scelerisque ac velit. Fusce convallis sapien at nunc rhoncus, vel molestie velit facilisis. Phasellus nec posuere ante. Sed in mi imperdiet"
-      }
-    ],
-    "recommendations": [
+        "topic": "Photography",
+        "fact": "I am passionate about photography, both analog and digital."
+      },
       {
-        "title": "Personal Blog",
-        "type": "reading",
-        "URL": "https://leonardopoza.com/",
-        "authors": [
-          {
-            "name": "Leonardo",
-            "surnames": "Poza",
-            "title": "Author"
-          }
-        ],
-        "summary": "Just my personal site"
+        "topic": "Cooking ",
+        "fact": "I can invite you to eat the best risotto and tartar you have ever tasted."
+      },
+      {
+        "topic": "Tennis",
+        "fact": "I watch tennis, I read about tennis, I play tennis... and I NEVER WIN matches :)"
       }
     ]
   },
