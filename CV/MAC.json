@@ -315,6 +315,19 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "De Programador a Recruiter, por qué pasarse al lado oscuro",
+          "image": {
+            "alt": "5xQXKGte_400x400.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/24d4b953-968c-4a40-9d2e-a63a1b9fe759_5xqxkgte_400x400.jpeg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2021-10-01"
+      }
     ]
   },
   "knowledge": {
