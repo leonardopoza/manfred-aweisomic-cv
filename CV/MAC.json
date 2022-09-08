@@ -458,6 +458,22 @@
           "URL": "https://www.linkedin.com/in/leonardopoza/"
         }
       ]
+    },
+    "preferences": {
+      "discardedCompetences": [
+        {
+          "name": "Cobol",
+          "type": "technology"
+        },
+        {
+          "name": "Fortran",
+          "type": "technology"
+        },
+        {
+          "name": "SAP",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
