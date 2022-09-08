@@ -374,19 +374,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Certified SAFe 4 Agilist",
-        "startDate": "2019-12-01",
-        "institution": {
-          "name": "Scaled Agile, Inc.",
-          "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/90d4f392-5b8d-45de-98a1-7f9bd8239c05_descarga.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "SCRUM Framework",
         "startDate": "2019-06-01",
         "institution": {
@@ -420,6 +407,20 @@
           "image": {
             "alt": "management30_def.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6e3bde72-71f6-4d37-9c93-cd0b890c34d0_management30_def.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified SAFe 4 Agilist",
+        "startDate": "2019-12-01",
+        "finishDate": "2020-01-01",
+        "institution": {
+          "name": "Scaled Agile, Inc.",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/90d4f392-5b8d-45de-98a1-7f9bd8239c05_descarga.png"
           }
         }
       },
