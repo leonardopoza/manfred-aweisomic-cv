@@ -401,19 +401,6 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Introducción y visión general de AGILE",
-        "startDate": "2019-04-01",
-        "institution": {
-          "name": "The Agile Program - Agile",
-          "image": {
-            "alt": "1552481651481.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6741d148-8258-4e0e-9e5d-bb6002f19e1c_1552481651481.jpeg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
         "degreeAchieved": true,
         "name": "SCRUM Framework",
         "startDate": "2018-09-01",
@@ -437,6 +424,20 @@
           "image": {
             "alt": "descarga.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/90d4f392-5b8d-45de-98a1-7f9bd8239c05_descarga.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introducción y visión general de AGILE",
+        "startDate": "2018-09-01",
+        "finishDate": "2019-09-01",
+        "institution": {
+          "name": "The Agile Program - Agile",
+          "image": {
+            "alt": "1552481651481.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6741d148-8258-4e0e-9e5d-bb6002f19e1c_1552481651481.jpeg"
           }
         }
       },
