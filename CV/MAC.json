@@ -15,10 +15,16 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c12e44c1-b539-4d39-ac63-d8978233ea5a_q7yio7eu_400x400.jpeg"
       },
       "location": {
-        "notes": "Madrid, Spain"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/leonardopoza"
+      },
       {
         "type": "other",
         "URL": "https://leonardopoza.com/"
@@ -30,6 +36,12 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/leonardopoza/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Test Title",
+        "fact": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nisl lectus, sodales eget mauris vitae, pellentesque blandit mi. Sed tristique, mi nec posuere blandit, dolor tellus lacinia nibh, quis vulputate neque nisl vel dolor. Curabitur ligula elit, tempus quis vulputate sed, scelerisque ac velit. Fusce convallis sapien at nunc rhoncus, vel molestie velit facilisis. Phasellus nec posuere ante. Sed in mi imperdiet"
       }
     ],
     "recommendations": [
@@ -302,7 +314,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "NodeJS",
+          "name": ".NET",
           "type": "technology"
         }
       },
@@ -314,13 +326,7 @@
       },
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -332,13 +338,19 @@
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "DynamoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       }
