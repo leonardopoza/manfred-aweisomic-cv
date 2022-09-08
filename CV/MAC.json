@@ -307,6 +307,39 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Be-Unlimited",
+          "description": "Be-Unlimited is a platform to disseminate job offers for people with different abilities.",
+          "image": {
+            "alt": "1567204174575.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/08053e6a-1fb7-422d-95ab-ef2c225330a5_1567204174575.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-05-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
