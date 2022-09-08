@@ -321,9 +321,10 @@
       {
         "details": {
           "name": "Codemotion | De Programador a Recruiter, por qué pasarse al lado oscuro",
+          "description": "Recruiters. Esos seres encorbatados, sufridos y detestados por todo programador medio que tenga LinkedIn y que probablemente haya sufrido su frecuente spam.\n\nSí, nosotros también lo vivimos en nuestra piel. Nosotros también acabamos diciendo que no a muchas, muchas propuestas que en la mayoría de los casos poco tenían que ver con aquello a lo que nos dedicábamos, con nuestras inquietudes e intereses.",
           "image": {
-            "alt": "5xQXKGte_400x400.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/da2b6bd8-460a-4cb8-8c5f-7e95178ab0f3_5xqxkgte_400x400.jpeg"
+            "alt": "qrZg5nRM_400x400.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/8a8b3ea5-cce2-4923-81d6-2f8a93279971_qrzg5nrm_400x400.jpeg"
           }
         },
         "type": "talk",
