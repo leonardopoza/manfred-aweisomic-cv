@@ -378,12 +378,15 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Certified SAFe 4 Agilist",
         "startDate": "2019-12-01",
-        "finishDate": "2019-12-01",
         "institution": {
-          "name": "Scaled Agile, Inc."
+          "name": "Scaled Agile, Inc.",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/90d4f392-5b8d-45de-98a1-7f9bd8239c05_descarga.png"
+          }
         }
       },
       {
