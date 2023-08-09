@@ -11,34 +11,16 @@
       "title": "Scout en Manfred",
       "description": "I have been working more than 15 years in the IT industry, developing software and leading development teams.\n\nI have also lived the experience of being the person in charge of selecting the technological profiles of a fintech for 2 years. If we put all that in a cocktail shaker, you can imagine the thousand and one experiences lived.\n\nAt Manfred we try to change the technological Recruitment. To do it differently, to do it by putting the candidate at the center of the process.",
       "avatar": {
-        "alt": "q7YIo7eU_400x400.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c12e44c1-b539-4d39-ac63-d8978233ea5a_q7yio7eu_400x400.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c12e44c1-b539-4d39-ac63-d8978233ea5a_q7yio7eu_400x400.jpeg",
+        "alt": "q7YIo7eU_400x400.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/leonardopoza"
-      },
-      {
-        "type": "other",
-        "URL": "https://leonardopoza.com/"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/leonardopoza"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/leonardopoza/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Photography",
@@ -57,26 +39,32 @@
       {
         "title": "OPEN: Andre Agassi Memories",
         "type": "reading",
+        "summary": "Open es la semblanza a corazón abierto de Andre Agassi, que en estas memorias se muestra tal como es: un hombre que debió enfrentarse a las presiones de su familia, de la fama, pero que siempre conservó el valor de la amistad y un sentido altruista de la vida.",
         "authors": [
           {
             "name": "Andre",
             "surnames": "Aggasi",
             "title": "Author"
           }
-        ],
-        "summary": "Open es la semblanza a corazón abierto de Andre Agassi, que en estas memorias se muestra tal como es: un hombre que debió enfrentarse a las presiones de su familia, de la fama, pero que siempre conservó el valor de la amistad y un sentido altruista de la vida."
+        ]
       },
       {
         "title": "The Software Craftsman",
         "type": "reading",
+        "summary": "Be a Better Developer and Deliver Better Code   Despite advanced tools and methodologies, software projects continue to fail. Why? Too many organizations still view software development as just another production line",
         "authors": [
           {
             "name": "Sandro",
             "surnames": "Mancuso",
             "title": "Author"
           }
-        ],
-        "summary": "Be a Better Developer and Deliver Better Code   Despite advanced tools and methodologies, software projects continue to fail. Why? Too many organizations still view software development as just another production line"
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://leonardopoza.com/"
       }
     ]
   },
@@ -86,8 +74,8 @@
         "organization": {
           "name": "Manfred",
           "image": {
-            "alt": "1598957687270.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/7a6b9065-ca7f-4b43-a971-44a88fe0871a_1598957687270.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/7a6b9065-ca7f-4b43-a971-44a88fe0871a_1598957687270.jpeg",
+            "alt": "1598957687270.jpeg"
           }
         },
         "roles": [
@@ -106,8 +94,8 @@
         "organization": {
           "name": "Assembler School of Software Engineering",
           "image": {
-            "alt": "1642111847762.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/708e4baa-5f60-439c-bc8f-3bf2ba93ee11_1642111847762.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/708e4baa-5f60-439c-bc8f-3bf2ba93ee11_1642111847762.jpeg",
+            "alt": "1642111847762.jpeg"
           }
         },
         "roles": [
@@ -126,8 +114,8 @@
         "organization": {
           "name": "Payvision",
           "image": {
-            "alt": "1579635808561.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/d7806823-9ec5-463b-8f51-0ce07e5d92d0_1579635808561.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/d7806823-9ec5-463b-8f51-0ce07e5d92d0_1579635808561.jpeg",
+            "alt": "1579635808561.jpeg"
           }
         },
         "roles": [
@@ -147,8 +135,8 @@
         "organization": {
           "name": "Payvision",
           "image": {
-            "alt": "1579635808561.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/07e94371-065e-4101-96fb-13021c893ec1_1579635808561.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/07e94371-065e-4101-96fb-13021c893ec1_1579635808561.jpeg",
+            "alt": "1579635808561.jpeg"
           }
         },
         "roles": [
@@ -168,8 +156,8 @@
         "organization": {
           "name": "Payvision",
           "image": {
-            "alt": "1579635808561.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/7f74db15-9b2d-4158-8cfe-586014906350_1579635808561.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/7f74db15-9b2d-4158-8cfe-586014906350_1579635808561.jpeg",
+            "alt": "1579635808561.jpeg"
           }
         },
         "roles": [
@@ -189,8 +177,8 @@
         "organization": {
           "name": "Payvision",
           "image": {
-            "alt": "1579635808561.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/aa6ae792-58a6-4c1e-a374-9da1b84fc0fc_1579635808561.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/aa6ae792-58a6-4c1e-a374-9da1b84fc0fc_1579635808561.jpeg",
+            "alt": "1579635808561.jpeg"
           }
         },
         "roles": [
@@ -224,8 +212,8 @@
         "organization": {
           "name": "Grupo Marsans",
           "image": {
-            "alt": "1519933534929.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/54caa64f-b72c-44c0-a68c-80f7165f847f_1519933534929.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/54caa64f-b72c-44c0-a68c-80f7165f847f_1519933534929.jpeg",
+            "alt": "1519933534929.jpeg"
           }
         },
         "roles": [
@@ -259,8 +247,8 @@
         "organization": {
           "name": "Selesta Networks",
           "image": {
-            "alt": "selesta.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/a5c3a829-0840-4cbf-8a26-6f0d3ebae3af_selesta.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/a5c3a829-0840-4cbf-8a26-6f0d3ebae3af_selesta.jpeg",
+            "alt": "selesta.jpeg"
           }
         },
         "roles": [
@@ -289,8 +277,8 @@
           "name": "Be-Unlimited",
           "description": "Be-Unlimited is a platform to disseminate job offers for people with different abilities.",
           "image": {
-            "alt": "1567204174575.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/08053e6a-1fb7-422d-95ab-ef2c225330a5_1567204174575.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/08053e6a-1fb7-422d-95ab-ef2c225330a5_1567204174575.jpeg",
+            "alt": "1567204174575.jpeg"
           }
         },
         "type": "sideProject",
@@ -322,8 +310,8 @@
           "name": "RootedConf | De Programador a Recruiter, por qué pasarse al lado oscuro",
           "description": "Recruiters. Esos seres encorbatados, sufridos y detestados por todo programador medio que tenga LinkedIn y que probablemente haya sufrido su frecuente spam.\n\nSí, nosotros también lo vivimos en nuestra piel. Nosotros también acabamos diciendo que no a muchas, muchas propuestas que en la mayoría de los casos poco tenían que ver con aquello a lo que nos dedicábamos, con nuestras inquietudes e intereses.",
           "image": {
-            "alt": "rooted.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/05549f78-dd95-4ca7-a91d-ff381097d00e_rooted.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/05549f78-dd95-4ca7-a91d-ff381097d00e_rooted.jpeg",
+            "alt": "rooted.jpeg"
           }
         },
         "type": "talk",
@@ -334,8 +322,8 @@
           "name": "Codemotion | De Programador a Recruiter, por qué pasarse al lado oscuro",
           "description": "Recruiters. Esos seres encorbatados, sufridos y detestados por todo programador medio que tenga LinkedIn y que probablemente haya sufrido su frecuente spam.\n\nSí, nosotros también lo vivimos en nuestra piel. Nosotros también acabamos diciendo que no a muchas, muchas propuestas que en la mayoría de los casos poco tenían que ver con aquello a lo que nos dedicábamos, con nuestras inquietudes e intereses.",
           "image": {
-            "alt": "5xQXKGte_400x400.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/84623356-8779-4e4d-be43-0d0f4e728e4a_5xqxkgte_400x400.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/84623356-8779-4e4d-be43-0d0f4e728e4a_5xqxkgte_400x400.jpeg",
+            "alt": "5xQXKGte_400x400.jpeg"
           }
         },
         "type": "talk",
@@ -346,8 +334,8 @@
           "name": "CommitConf: Talent Fishbowl! Recruiters & Developers",
           "description": "Juntamos en un mismo espacio a desarrolladores y recruiters para debatir cómo se capta, gestiona y retiene el talento en IT en la actualidad, explorar nuevos caminos y proponer mejoras en un debate moderado y dinamizado por el awesómico tándem formado por Marina Ramos y Leonardo Poza.",
           "image": {
-            "alt": "qrZg5nRM_400x400.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/c0638c2d-a3aa-4fde-95cc-2b9ace326602_qrzg5nrm_400x400.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/c0638c2d-a3aa-4fde-95cc-2b9ace326602_qrzg5nrm_400x400.jpeg",
+            "alt": "qrZg5nRM_400x400.jpeg"
           }
         },
         "type": "talk",
@@ -358,11 +346,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -375,25 +363,13 @@
       },
       {
         "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
           "type": "technology"
         }
       },
@@ -408,73 +384,105 @@
           "name": "Github",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "SCRUM Framework",
-        "startDate": "2018-09-01",
-        "finishDate": "2019-09-01",
-        "institution": {
-          "name": "The Agile Program - Agile",
-          "image": {
-            "alt": "1552481651481.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/69673685-e7c8-48d0-9d4f-581726032798_1552481651481.jpeg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Certified SAFe 4 Agilist",
         "startDate": "2018-09-01",
-        "finishDate": "2019-09-01",
         "institution": {
           "name": "Scaled Agile, Inc.",
           "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/90d4f392-5b8d-45de-98a1-7f9bd8239c05_descarga.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/90d4f392-5b8d-45de-98a1-7f9bd8239c05_descarga.png",
+            "alt": "descarga.png"
           }
-        }
+        },
+        "finishDate": "2019-09-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Introducción y visión general de AGILE",
         "startDate": "2018-09-01",
-        "finishDate": "2019-09-01",
         "institution": {
           "name": "The Agile Program - Agile",
           "image": {
-            "alt": "1552481651481.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6741d148-8258-4e0e-9e5d-bb6002f19e1c_1552481651481.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6741d148-8258-4e0e-9e5d-bb6002f19e1c_1552481651481.jpeg",
+            "alt": "1552481651481.jpeg"
           }
-        }
+        },
+        "finishDate": "2019-09-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Management 3.0",
         "startDate": "2016-01-01",
-        "finishDate": "2018-01-01",
         "institution": {
           "name": "Improvement21",
           "image": {
-            "alt": "management30_def.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6e3bde72-71f6-4d37-9c93-cd0b890c34d0_management30_def.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6e3bde72-71f6-4d37-9c93-cd0b890c34d0_management30_def.jpeg",
+            "alt": "management30_def.jpeg"
           }
-        }
+        },
+        "finishDate": "2018-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "SCRUM Framework",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "The Agile Program - Agile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/69673685-e7c8-48d0-9d4f-581726032798_1552481651481.jpeg",
+            "alt": "1552481651481.jpeg"
+          }
+        },
+        "finishDate": "2019-09-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "TECNICO SUPERIOR DESARROLLO DE APLICACIONES INFORMATICAS ",
         "startDate": "2003-09-01",
-        "finishDate": "2005-07-01",
         "institution": {
           "name": "Juan de Colonia"
+        },
+        "finishDate": "2005-07-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
         }
       }
     ]
@@ -483,8 +491,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/leonardopoza/"
+          "URL": "https://www.linkedin.com/in/leonardopoza/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/leonardopoza",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/leonardopoza",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "leonardo.poza.abad@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "659120720",
+          "countryCode": "+34"
         }
       ]
     },
@@ -508,5 +533,23 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Busco un sitio donde poder aportar mi experiencia. Donde poder juntar mis pasiones, la contratación de perfiles IT, la creación de producto y el desarrollo de software. Donde se ponga al candidato por encima de todo. ¡Donde se trabaje con empatía, con tacto y con sueños! Siempre me gusto creer que se puede cambiar el mundo, aunque solo sea un poco. Un sitio donde no se penalice el error, donde se premie la proactividad. Donde el equipo sea lo primero y la colaboración sea un mantra. Donde disfrutar. Quiero volver a sonreír los lunes, pensar que es el mejor día de la semana. \n\n¿Conocéis algún sitio así? ;)",
+    "projects": [
+      {
+        "name": "Be-Unlimited"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "OPEN: Andre Agassi Memories",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/e335a52a-3d3c-4c46-892e-042db6878f93_4176dhzdqdl.jpeg"
+      },
+      {
+        "name": "The Software Craftsman",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/4c82fe58-7617-4973-b630-f11e50cc9f0d_510-bmaglcl.jpg"
+      }
+    ]
   }
 }
