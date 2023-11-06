@@ -63,6 +63,18 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/leonardopoza/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/leonardopoza"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/leonardopoza"
+      },
+      {
         "type": "other",
         "URL": "https://leonardopoza.com/"
       }
@@ -292,7 +304,7 @@
                 "type": "technology"
               },
               {
-                "name": "Lambda",
+                "name": "AWS Lambda",
                 "type": "technology"
               },
               {
@@ -535,6 +547,12 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Busco un sitio donde poder aportar mi experiencia. Donde poder juntar mis pasiones, la contratación de perfiles IT, la creación de producto y el desarrollo de software. Donde se ponga al candidato por encima de todo. ¡Donde se trabaje con empatía, con tacto y con sueños! Siempre me gusto creer que se puede cambiar el mundo, aunque solo sea un poco. Un sitio donde no se penalice el error, donde se premie la proactividad. Donde el equipo sea lo primero y la colaboración sea un mantra. Donde disfrutar. Quiero volver a sonreír los lunes, pensar que es el mejor día de la semana. \n\n¿Conocéis algún sitio así? ;)",
     "projects": [
       {
