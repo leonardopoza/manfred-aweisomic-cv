@@ -8,8 +8,8 @@
     "profile": {
       "name": "Leonardo",
       "surnames": "Poza Abad",
-      "title": "Scout en Manfred",
-      "description": "I have been working more than 15 years in the IT industry, developing software and leading development teams.\n\nI have also lived the experience of being the person in charge of selecting the technological profiles of a fintech for 2 years. If we put all that in a cocktail shaker, you can imagine the thousand and one experiences lived.\n\nAt Manfred we try to change the technological Recruitment. To do it differently, to do it by putting the candidate at the center of the process.",
+      "title": "Recruiting Manager",
+      "description": "Burgalés. Feliz al cuadrado. Padre por duplicado. Afortunado.\n\n¿Qué hago?\n\n#development: He pasado más de 15 años desarrollando software y liderando equipos de desarrollo. Creando una plataforma escalable y robusta, usando siempre buenas prácticas y enfocado en la entrega de constante de valor.\n\n#team: Liderando equipos de desarrollo, me di cuenta de que me apasionaba. Mentorizar y ayudar a crecer a la gente es algo increíble. Construir equipos equilibrados y autónomos es algo complejo.\n\n#recruitment: Contratar no es sencillo y perfiles técnicos, menos aún. Tienes miedo a equivocarte y muchas veces no sabes por donde empezar. Yo ayudé a una fintech a duplicar el equipo de desarrollo en un año, pasando de 35 personas a más de 70. Me apasiono y ahora estoy cambiando la forma de contratar perfiles técnicos desde Manfred.\n\n#consultancy: Si ponemos todo eso en una coctelera, podéis imaginar las mil y una experiencias vividas. Ahora mismo ayudo a empresas a identificar necesidades organizativas o de crecimiento, proponerles un plan de acción y acompañarlos en el camino.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/c12e44c1-b539-4d39-ac63-d8978233ea5a_q7yio7eu_400x400.jpeg",
         "alt": "q7YIo7eU_400x400.jpeg"
@@ -39,7 +39,6 @@
       {
         "title": "OPEN: Andre Agassi Memories",
         "type": "reading",
-        "summary": "Open es la semblanza a corazón abierto de Andre Agassi, que en estas memorias se muestra tal como es: un hombre que debió enfrentarse a las presiones de su familia, de la fama, pero que siempre conservó el valor de la amistad y un sentido altruista de la vida.",
         "authors": [
           {
             "name": "Andre",
@@ -51,7 +50,6 @@
       {
         "title": "The Software Craftsman",
         "type": "reading",
-        "summary": "Be a Better Developer and Deliver Better Code   Despite advanced tools and methodologies, software projects continue to fail. Why? Too many organizations still view software development as just another production line",
         "authors": [
           {
             "name": "Sandro",
@@ -84,19 +82,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/7a6b9065-ca7f-4b43-a971-44a88fe0871a_1598957687270.jpeg",
-            "alt": "1598957687270.jpeg"
-          }
+          "name": "Manfred"
         },
         "roles": [
           {
-            "name": "Tech Scout & Account Manager",
-            "startDate": "2020-12-01",
+            "name": "Recruiting Manager",
+            "startDate": "2023-09-01",
             "challenges": [
               {
-                "description": "Contributing with my technical knowledge to the recruitment world. Building Manfred. We don't fill positions, we build careers. Have a look at us and see how we work and why we are not just recruiters. Contributing with my technical knowledge to the recruitment world. Building Manfred. We don't fill positions, we build careers. Have a look at us and see how we work and why we are not just recruiters.\n\n- Advise to our clients to publish offers align with the IT community.\n- Advise people interested in our open positions.\n- Ensure the quality for our clients and candidates."
+                "description": "Etapa en la que lidero el equipo de Recruiting formado por 18 personas, asegurando el rendimiento del equipo, siempre intentando ayudarlos a progresar como profesionales. Entre mis responsabilidades se encuentra el diseñar y mejorar los procesos de selección, ayudar al equipo en bloqueos o situaciones complejas, realizar frecuente 1:1 con todos los integrantes del equipo y las performance review para que puedan crecer en nuestros planes de carrera.\n\nIgualmente, sigo ejerciendo labores de Account Manager asesorando y llevando la relación con clientes, asegurando el forjar relaciones duraderas y ayudando a que nuestros clientes siempre reciban un valor diferencial."
               }
             ]
           }
@@ -104,19 +98,33 @@
       },
       {
         "organization": {
-          "name": "Assembler School of Software Engineering",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/708e4baa-5f60-439c-bc8f-3bf2ba93ee11_1642111847762.jpeg",
-            "alt": "1642111847762.jpeg"
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Scout - Account Manager",
+            "startDate": "2020-12-01",
+            "finishDate": "2023-09-30",
+            "challenges": [
+              {
+                "description": "Como Scout y Account Manager mi responsabilidad siempre ha sido encontrar el mejor talento para la empresa, asesorando y llevando la relación con ellos y ayudando a las personas en búsqueda de un nuevo reto a encontrarlo. Aportar mis conocimientos técnicos y aplicando mi experiencia en el mundo del desarrollo de software me ha ayudado siempre mucho para comprender las necesidades de los clientes y poder entender e identificar a las personas adecuadas."
+              }
+            ]
           }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Assembler School of Software Engineering"
         },
         "roles": [
           {
             "name": "Mentor",
             "startDate": "2020-09-01",
+            "finishDate": "2024-09-30",
             "challenges": [
               {
-                "description": "I collaborate with Assembler School mentoring and conducting workshops to help students to face their first interview for the IT sector. \n\n- Talks: Tips and Tricks for your first IT interview."
+                "description": "Participo con Assembler School mentorizando y realizando workshops para ayudar a los alumnos a afrontar sus primeras entrevistas para el sector IT."
               }
             ]
           }
@@ -124,11 +132,7 @@
       },
       {
         "organization": {
-          "name": "Payvision",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/d7806823-9ec5-463b-8f51-0ce07e5d92d0_1579635808561.jpeg",
-            "alt": "1579635808561.jpeg"
-          }
+          "name": "Payvision"
         },
         "roles": [
           {
@@ -137,7 +141,7 @@
             "finishDate": "2020-12-31",
             "challenges": [
               {
-                "description": "Responsible for the growth of the technology department. Improving the recruitment process to make it more oriented to technical people.\n\n- Prepare a ladder for the IT department.\n- Improve the recruitment process."
+                "description": "Responsable del departamento de Selección de TI en la oficina de Madrid. Mejorando el proceso para hacerlo más orientado a Ingenieros."
               }
             ]
           }
@@ -145,11 +149,24 @@
       },
       {
         "organization": {
-          "name": "Payvision",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/07e94371-065e-4101-96fb-13021c893ec1_1579635808561.jpeg",
-            "alt": "1579635808561.jpeg"
+          "name": "Be-Unlimited"
+        },
+        "roles": [
+          {
+            "name": "Fundador",
+            "startDate": "2019-08-01",
+            "finishDate": "2025-01-31",
+            "challenges": [
+              {
+                "description": "Side-Project realizado para difundir ofertas de empleo para personas con capacidades diferentes. El mundo de la empleabilidad es complejo y poco justo para personas de esta comunidad. Esta plataforma trata de ayudar y hacer llegar las ofertas de empleo de una forma más sencilla.\n\nEste side-project además de poder hacer una acción social, me ayuda a mantenerme al día en el mundo del desarrollo."
+              }
+            ]
           }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision"
         },
         "roles": [
           {
@@ -158,7 +175,7 @@
             "finishDate": "2019-10-31",
             "challenges": [
               {
-                "description": "En este nuevo rol me estoy ocupando de:\n- Organizar el Release Train: evento para planificar las entregas de cada trimestre. Los departamentos de IT y Producto están involucrados. Más o menos 100 personas.\n- Organizar semanas de innovación: dos veces al año, organizamos una semana de innovación, donde todos los ingenieros tienen la oportunidad de desarrollar algunos proyectos con nuevas tecnologías.\n- Responsable del proceso de reclutamiento IT de la oficina de Madrid. Mejorando el proceso para hacerlo más orientado a los personas técnicas.\n"
+                "description": "En este nuevo rol me estoy ocupando de:\n- Organizar el Release Train: evento para planificar las entregas de cada trimestre. Los departamentos de IT y Producto están involucrados. Más o menos 100 personas.\n- Organizar semanas de innovación: dos veces al año, organizamos una semana de innovación, donde todos los ingenieros tienen la oportunidad de desarrollar algunos proyectos con nuevas tecnologías.\n- Responsable del proceso de reclutamiento IT de la oficina de Madrid. Mejorando el proceso para hacerlo más orientado a los ingenieros."
               }
             ]
           }
@@ -166,11 +183,7 @@
       },
       {
         "organization": {
-          "name": "Payvision",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/7f74db15-9b2d-4158-8cfe-586014906350_1579635808561.jpeg",
-            "alt": "1579635808561.jpeg"
-          }
+          "name": "Payvision"
         },
         "roles": [
           {
@@ -179,7 +192,7 @@
             "finishDate": "2018-01-31",
             "challenges": [
               {
-                "description": "Empresa multinacional proveedora de servicios de pago, con sede en Amsterdam y delegaciones en Singapur, New York… Realizando funciones de análisis y desarrollo. Los últimos cuatro años usando metodologías ágiles SCRUM. Siempre usando las ultimas tecnologías Microsoft. \n\nComo Team Lead me he visto involucrado en la implementación de metodologías ágiles dentro de un equipo de desarrollo. Intentando llevar este equipo a una entrega evolutiva e incremental. He tenido la oportunidad de trabajar también en la automatización de procesos y la mejora continua de dicho equipo."
+                "description": "Empresa multinacional proveedora de servicios de pago, con sede en Amsterdam y delegaciones en Singapur, New York… Realizando funciones de análisis y desarrollo. Los últimos cuatro años usando metodologías ágiles SCRUM. Siempre usando las ultimas tecnologías Microsoft.\n\nComo Team Lead me he visto involucrado en la implementación de metodologías ágiles dentro de un equipo de desarrollo. Intentando llevar este equipo a una entrega evolutiva e incremental. He tenido la oportunidad de trabajar también en la automatización de procesos y la mejora continua de dicho equipo."
               }
             ]
           }
@@ -187,69 +200,33 @@
       },
       {
         "organization": {
-          "name": "Payvision",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/aa6ae792-58a6-4c1e-a374-9da1b84fc0fc_1579635808561.jpeg",
-            "alt": "1579635808561.jpeg"
-          }
+          "name": "Payvision"
         },
         "roles": [
           {
-            "name": "Senior Software Developer",
+            "name": "Senior Software Engineering",
             "startDate": "2008-06-01",
             "finishDate": "2015-04-30",
             "challenges": [
               {
                 "description": "Empresa multinacional proveedora de servicios de pago, con sede en Amsterdam y delegaciones en Singapur, New York… Realizando funciones de análisis y desarrollo. Los últimos cuatro años usando metodologías ágiles SCRUM. Siempre usando las ultimas tecnologías Microsoft."
               }
-            ],
-            "competences": [
-              {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Grupo Marsans",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/06/54caa64f-b72c-44c0-a68c-80f7165f847f_1519933534929.jpeg",
-            "alt": "1519933534929.jpeg"
-          }
+          "name": "Grupo Marsans"
         },
         "roles": [
           {
-            "name": "Software Developer",
+            "name": "Senior Software Engineering",
             "startDate": "2006-01-01",
-            "finishDate": "2008-12-31",
+            "finishDate": "2008-01-01",
             "challenges": [
               {
-                "description": "En este tiempo trabaje en importante portal de gestión de reservas, siendo el responsable de las integraciones con terceros. "
-              }
-            ],
-            "competences": [
-              {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
+                "description": "Desarrollador senior, haciendo también funciones de análisis. En este tiempo trabaje en importante portal de gestión de reservas, siendo el responsable de las integraciones con terceros. Usando principalmente las siguientes tecnologías:\n\n- C#\n- Framework 3.5\n- Microsoft Enterprise Library 4.0\n- Microsoft Visual SourceSafe…"
               }
             ]
           }
@@ -257,26 +234,16 @@
       },
       {
         "organization": {
-          "name": "Selesta Networks",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/a5c3a829-0840-4cbf-8a26-6f0d3ebae3af_selesta.jpeg",
-            "alt": "selesta.jpeg"
-          }
+          "name": "Selesta Networks"
         },
         "roles": [
           {
-            "name": "Junior Software Developer",
+            "name": "Junior Software Engineering",
             "startDate": "2005-10-01",
             "finishDate": "2006-09-30",
             "challenges": [
               {
-                "description": "Involved in the development of a platform for license plate recognition and access control for companies like: - Mercamadrid - Universidad Alfonso X el Sabio - Hertz - Diputación Foral de Gipuzkoa - Delegación de Hacienda de la Comunidad de Madrid. Involved in the development of a platform for license plate recognition and access control for companies like: - Mercamadrid - Universidad Alfonso X el Sabio - Hertz - Diputación Foral de Gipuzkoa - Delegación de Hacienda de la Comunidad de Madrid."
-              }
-            ],
-            "competences": [
-              {
-                "name": ".NET",
-                "type": "technology"
+                "description": "Análisis y diseño de Solución Integral para el Reconocimiento de Matriculas y control de Accesos para: - Mercamadrid - Universidad Alfonso X el Sabio - Hertz - Diputación Foral de Gipuzkoa - Delegación de Hacienda de la Comunidad de Madrid."
               }
             ]
           }
@@ -377,6 +344,12 @@
       },
       {
         "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
           "type": "technology"
         }
@@ -395,7 +368,19 @@
       },
       {
         "skill": {
+          "name": "Entity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -410,74 +395,42 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TFS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certified SAFe 4 Agilist",
-        "startDate": "2018-09-01",
-        "institution": {
-          "name": "Scaled Agile, Inc.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/90d4f392-5b8d-45de-98a1-7f9bd8239c05_descarga.png",
-            "alt": "descarga.png"
-          }
-        },
-        "finishDate": "2019-09-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Introducción y visión general de AGILE",
-        "startDate": "2018-09-01",
-        "institution": {
-          "name": "The Agile Program - Agile",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6741d148-8258-4e0e-9e5d-bb6002f19e1c_1552481651481.jpeg",
-            "alt": "1552481651481.jpeg"
-          }
-        },
-        "finishDate": "2019-09-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Management 3.0",
-        "startDate": "2016-01-01",
-        "institution": {
-          "name": "Improvement21",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/6e3bde72-71f6-4d37-9c93-cd0b890c34d0_management30_def.jpeg",
-            "alt": "management30_def.jpeg"
-          }
-        },
-        "finishDate": "2018-01-01"
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "SCRUM Framework",
-        "startDate": "2018-09-01",
-        "institution": {
-          "name": "The Agile Program - Agile",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/69673685-e7c8-48d0-9d4f-581726032798_1552481651481.jpeg",
-            "alt": "1552481651481.jpeg"
-          }
-        },
-        "finishDate": "2019-09-01"
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "TECNICO SUPERIOR DESARROLLO DE APLICACIONES INFORMATICAS ",
-        "startDate": "2003-09-01",
+        "name": "TECNICO SUPERIOR DESARROLLO DE APLICACIONES INFORMATICAS",
+        "startDate": "2003-01-01",
         "institution": {
           "name": "Juan de Colonia"
         },
-        "finishDate": "2005-07-01"
+        "finishDate": "2005-01-01"
       }
     ],
     "softSkills": [
