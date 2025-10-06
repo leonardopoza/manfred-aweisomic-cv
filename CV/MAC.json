@@ -537,7 +537,12 @@
         "Developer Evangelist & Advocate"
       ]
     },
-    "status": "notAvailable"
+    "status": "notAvailable",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
